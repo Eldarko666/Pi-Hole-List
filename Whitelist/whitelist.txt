@@ -72,7 +72,6 @@
 700days.blog69.twitter.com
 77026.bodis.com
 79423.analytics.edgekey.net
-7eer.net
 7zap.com
 9029561.twitter.com
 99ut.twitter.com
@@ -109,7 +108,6 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
-aax-us-iad.amazon.com
 ab.chatgpt.com
 ab.tweakers.net
 ab.tweakers.nl
@@ -148,21 +146,6 @@ activation.gfe.nvidia.com
 activecampaign.com
 activehosted.com
 activity.windows.com
-ad-api.band.us
-ad-im-cmg.streamguys1.com
-ad-ipd.sxp.smartclip.net
-ad-magazin.de
-ad-oom-cmg.streamguys1.com
-ad.71i.de
-ad.atdmt.com
-ad.doubleclick.net
-ad.wpstr.tv
-adalbernardes.twitter.com
-adcr.naver.com
-addons.mozilla.org
-addthisevent.com
-adf.ly
-adfoc.us
 adl.windows.com
 adlermode.com
 admin.vizia.twitter.com
@@ -173,26 +156,6 @@ adnotifications.windowsazure.com
 adobe-photoshop-express.en.twitter.com
 adobe.com
 adpanchok.co.kr
-ads-35dder-api.twitter.com
-ads-a-darwin.hulustream.com.akamaized.net
-ads-api-spring-chicken-az.twitter.com
-ads-bidder-api-sandbox7-m.twitter.com
-ads-bidder-api.marketing-dev.twitter.com
-ads-bidder-api.twitter.com
-ads-comiccon.twitter.com
-ads-dev-o4.events.twitter.com
-ads-e-darwin.hulustream.com
-ads-fa-darwin.hulustream.com
-ads-new.brave.com
-ads-serve.aws-internal.brave.com
-ads-serve.brave.com
-ads-static.brave.com
-ads.brave.com
-ads.julephosting.de
-ads.twitter.com
-ads.videoadex.com
-adstream.com
-adx.adform.net
 ae01.alicdn.com
 aeotec.com
 aerztebl-relay.iocnt.net
@@ -255,7 +218,6 @@ android.life360.com
 androidtvwatsonfe-pa.googleapis.com
 angi.com
 announcements.vizio.com
-anonymous.ads.brave.com
 anrdoezrs.net
 ansible.com
 answers.informer.com
@@ -512,7 +474,6 @@ builder-assets.unbounce.com
 buy.tinypass.com
 c-api-bit.shopeemobile.com
 c-ctrip.com
-c.amazon-adsystem.com
 c.apple.com
 c.bing.com
 c.delivery.consentmanager.net
@@ -615,7 +576,6 @@ cdn.syndication.twimg.com
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.tinypass.com
-cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
 cdn.ttgtmedia.com
@@ -627,7 +587,6 @@ cdn.voscast.com
 cdn1-images.nutaku.com
 cdn1-images.nutaku.net
 cdn1.affirm.com
-cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn2.smoot.apple.com
 cdn3.optimizely.com
@@ -701,7 +660,6 @@ clientstream.launchdarkly.com
 cliqz.com
 clk.asia
 clk.sh
-clk.tradedoubler.com
 cloud-news.ionos.com
 cloudcache.tencentcs.com
 cloudflare.com
@@ -768,7 +726,6 @@ consentcdn.cookiebot.eu
 consentmanager.mgr.consensu.org
 consumer.lp1.npns.srv.nintendo.net
 contaboserver.net
-contact.ads.brave.com
 content-analytics.googleapis.com
 content-analyticsinsights-pa.googleapis.com
 content-media.bonial.biz
@@ -929,7 +886,6 @@ docdro.id
 docs.datadoghq.com
 docs.google.com
 dogecoin.com
-dogus-ads-cdn.dygdigital.com
 doh-dns-apple-com.v.aaplimg.com
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
@@ -939,7 +895,6 @@ dooood.com
 doppler-config.cbsivideo.com
 doppler.hulu.com
 dotzbr-dev.mirakl.net
-doubleclick.net
 download.binance.com
 download.extremereach.com
 download.oxy.st
@@ -1173,7 +1128,6 @@ game-assets.haydaygame.com
 game.haydaygame.com
 gameforge.com
 gamepass.com
-gan.doubleclick.net
 garry.windscribe.com
 gateway.dots-services.com
 gaytxxx.com
@@ -1184,7 +1138,6 @@ gdpr-tcfv2.sp-prod.net
 geller-pa.googleapis.com
 gemini.google.com
 geo-prod.do.dsp.mp.microsoft.com
-geo.ads.brave.com
 geo.opera.com
 geo3.ggpht.com
 geoim.bloomberght.com
@@ -1618,7 +1571,6 @@ m.media-amazon.com
 m.stripe.com
 m.stripe.network
 m.tiktok.com
-m.weeklyad.target.com
 m.yap.yahoo.com
 m1-daum-apcajdmm.kgslb.com
 m1.com
@@ -1719,7 +1671,6 @@ mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 mobile.twitter.com
 mobilecrashreporting.googleapis.com
-mockup.ads.brave.com
 module.spk-burgenlandkreis.de
 mon-i18n.tiktokv.com
 monero.how
@@ -1762,7 +1713,6 @@ mydealz.digidip.net
 myfed.space
 myip.wtf
 mypoints.com
-mywallet.ads.brave.com
 mywot.com
 na.albtls.t.co
 nachrichten.yahoo.com
@@ -2004,7 +1954,6 @@ prd1.cdn.pengine.revtech.glulive.com
 prd1.personalization.centech.glulive.com
 preferences.convertkit.com
 pressplay.top
-prg.smartadserver.com
 pricelist.skype.com
 prisjakt.nu
 privatedomain.sgizmo.com
@@ -2113,7 +2062,6 @@ rudderstack.com
 rum.hlx.page
 run.mocky.io
 rv.treehousei.com
-s.amazon-adsystem.com
 s.cdn.turner.com
 s.deepl.com
 s.gateway.messenger.live.com
@@ -2199,7 +2147,6 @@ sdstream.binance.com
 se-tv4.videoplaza.tv
 sea.net.edu.cn
 search-operate.cdn.bcebos.com
-search.anonymous.ads.brave.com
 search.supplyframe.com
 searchapi.agoda.com
 searchg2.crownpeak.net
@@ -2288,7 +2235,6 @@ smotret-anime.com
 smotret-anime.online
 smotretanime.ru
 smp-device-content.apple.com
-sms.ads.heytapmobi.com
 snake.sumo-services.co.uk
 snap.licdn.com
 sni1gl.wpc.nucdn.net
@@ -2345,7 +2291,6 @@ static-assets.coinbase.com
 static-assets.highwebmedia.com
 static-in-feedback.heytapmobile.com
 static-v2.trbo.com
-static.ads.brave.com
 static.cdn.responsys.net
 static.cleverpush.com
 static.cloud.coveo.com
@@ -2747,8 +2692,6 @@ webchannel-content.eservice.emarsys.net
 webmasters.stackexchange.com
 websocket.pushbullet.com
 wee.so
-weeklyad.target.com
-weeklyad.target.com.edgesuite.net
 weworkremotely.com
 wfcdn.de
 whois.afrinic.net
@@ -2811,7 +2754,6 @@ www.binance.info
 www.bing.com
 www.bit.ly
 www.bitpanda.com
-www.blogads.com
 www.bollingerbands.com
 www.cbsnews.com
 www.cc-dt.com
@@ -2821,7 +2763,6 @@ www.cookiebot.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.device-provisioning.googleapis.com
-www.doubleclick.net
 www.dpbolvw.net
 www.dropbox.com
 www.dwin1.com
@@ -3035,7 +2976,6 @@ microsoftonline.com
 msftncsi.com
 my.plexapp.com
 nexusrules.officeapps.live.com
-npr-news.streaming.adswizz.com
 nine.plugins.plexapp.com
 no-ip.com
 node.plexapp.com
@@ -3148,7 +3088,6 @@ s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
 sqs.us-east-1.amazonaws.com
 acdn.adnxs.com
-cdn1.smartadserver.com
 ec-ns.sascdn.com
 js.maxmind.com
 directvnow.com
@@ -3251,9 +3190,6 @@ upgrade.scdn.com
 market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
 track.ucas.com
 t.ly
 adf.ly
